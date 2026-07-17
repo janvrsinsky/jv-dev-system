@@ -2,14 +2,22 @@
 
 # Dev System
 
-**A governance and audit method for building and operating software with AI.**
+**The governance and audit method I use to direct AI to build and operate real production software safely.**
+
+> **Proven in production:** this method has governed AI-assisted changes on a live system I operate around the clock, for 2+ months of continuous use.
 
 ![tier](https://img.shields.io/badge/tier-reference-6f42c1)
 ![validated](https://img.shields.io/badge/validated-2%2B%20months%20live-2ea44f)
+![production](https://img.shields.io/badge/governs-production%20system-2ea44f)
 ![HITL](https://img.shields.io/badge/human--in--the--loop-required-1f6feb)
+![autonomy](https://img.shields.io/badge/destructive%20ops-human--gated-red)
+![safety](https://img.shields.io/badge/safety-defense%20in%20depth-1f6feb)
 ![audit](https://img.shields.io/badge/audit%20trail-per--change-informational)
-![planning](https://img.shields.io/badge/planning-efforts%20%2B%20domains-blue)
 ![acceptance](https://img.shields.io/badge/discipline-acceptance%20%2B%20closure-orange)
+![task states](https://img.shields.io/badge/task%20states-7%20honest-blue)
+![planning](https://img.shields.io/badge/planning-efforts%20%2B%20domains-blue)
+![single thread](https://img.shields.io/badge/architecture-single--thread-lightgrey)
+![Claude Code](https://img.shields.io/badge/directs-Claude%20Code-d97757)
 ![obsidian](https://img.shields.io/badge/runs%20in-Obsidian-7c3aed)
 
 > When you direct AI to build and operate real systems, the code generation is the easy part. The hard part is the discipline around it: what gets validated before it is called done, what can never be violated, what every change is logged against, and what the AI is never allowed to do alone. This repository documents that discipline.
